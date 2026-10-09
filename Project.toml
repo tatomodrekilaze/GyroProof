@@ -1,0 +1,10 @@
+name = "GyroProof"
+uuid = "2474c3ec-f63a-4c6a-8f18-1e807a8c1dd3"
+authors = ["GyroProof contributors"]
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+julia = "1.9"
