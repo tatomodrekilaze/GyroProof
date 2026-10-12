@@ -63,4 +63,5 @@ The Lean project has been built successfully with Lean 4.19.0 and Mathlib v4.19.
 
 The code is released under the [MIT License](LICENSE).
 
-*Note: Initial project structure and boilerplate code were AI-assisted and manually refined.*
+### AI Disclosure
+AI tools were used to generate initial code templates and project scaffolding. The formal proofs (Lean 4) and numerical logic (Julia) were written and verified manually.
