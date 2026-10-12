@@ -62,3 +62,5 @@ Useful background:
 The Lean project has been built successfully with Lean 4.19.0 and Mathlib v4.19.0. The Julia script has also been run with Julia 1.13.1; the reference run preserved speed to the displayed precision and ended with a signed phase error of about `0.0083208556` radians. These results apply to the stated update and parameters.
 
 The code is released under the [MIT License](LICENSE).
+
+*Note: Initial project structure and boilerplate code were AI-assisted and manually refined.*
